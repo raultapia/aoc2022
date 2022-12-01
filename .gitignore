@@ -1,0 +1,4 @@
+### AoC 2022 ###
+*.out
+*.txt
+Makefile
